@@ -1,0 +1,1 @@
+ select * from db_team_sysadmin.sandbox_kamranahmed.FLIGHT_DETAILS;
